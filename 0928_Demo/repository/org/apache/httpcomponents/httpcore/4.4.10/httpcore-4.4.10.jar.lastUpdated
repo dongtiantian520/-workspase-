@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 10 21:42:48 CST 2019
+https\://repository.cloudera.com/artifactory/libs-release/.error=Could not transfer artifact org.apache.httpcomponents\:httpcore\:jar\:4.4.10 from/to releases.cloudera.com (https\://repository.cloudera.com/artifactory/libs-release)\: The operation was cancelled.
+http\://maven.restlet.org/.error=Could not transfer artifact org.apache.httpcomponents\:httpcore\:jar\:4.4.10 from/to maven-restlet (http\://maven.restlet.org)\: The operation was cancelled.
+@default-maven-restlet-http\://maven.restlet.org/.lastUpdated=1554903767992
+http\://maven.aliyun.com/nexus/content/repositories/central/.error=Could not transfer artifact org.apache.httpcomponents\:httpcore\:jar\:4.4.10 from/to alimaven (http\://maven.aliyun.com/nexus/content/repositories/central/)\: The operation was cancelled.
+@default-releases.cloudera.com-https\://repository.cloudera.com/artifactory/libs-release/.lastUpdated=1554903768004
+@default-alimaven-http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1554903767970

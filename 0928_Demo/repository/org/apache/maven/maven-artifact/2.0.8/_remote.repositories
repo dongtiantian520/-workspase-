@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Aug 30 19:45:14 CST 2019
+maven-artifact-2.0.8.pom>nexus-aliyun=
+maven-artifact-2.0.8.pom>central=
+maven-artifact-2.0.8.pom>alimaven=

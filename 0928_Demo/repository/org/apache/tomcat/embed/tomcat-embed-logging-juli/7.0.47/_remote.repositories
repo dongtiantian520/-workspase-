@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Aug 30 20:19:48 CST 2019
+tomcat-embed-logging-juli-7.0.47.jar>alimaven=
+tomcat-embed-logging-juli-7.0.47.jar>central=
+tomcat-embed-logging-juli-7.0.47.pom>alimaven=
+tomcat-embed-logging-juli-7.0.47.pom>central=
+tomcat-embed-logging-juli-7.0.47.pom>nexus-aliyun=
+tomcat-embed-logging-juli-7.0.47.jar>nexus-aliyun=

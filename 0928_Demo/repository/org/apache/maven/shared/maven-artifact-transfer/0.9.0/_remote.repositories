@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 30 20:58:50 CST 2019
+maven-artifact-transfer-0.9.0.jar>nexus-aliyun=
+maven-artifact-transfer-0.9.0.jar>alimaven=
+maven-artifact-transfer-0.9.0.pom>alimaven=
+maven-artifact-transfer-0.9.0.pom>nexus-aliyun=

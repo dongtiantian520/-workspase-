@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.apache.dubbo</groupId>
+  <artifactId>dubbo</artifactId>
+  <version>2.7.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190608.032801</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20190608032801</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.7.3-20190608.032801-3</value>
+        <updated>20190608032801</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.7.3-20190608.032801-3</value>
+        <updated>20190608032801</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>2.7.3-20190608.032801-3</value>
+        <updated>20190608032801</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

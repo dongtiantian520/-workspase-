@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 10 21:42:47 CST 2019
+http\://maven.aliyun.com/nexus/content/repositories/central/.error=Could not transfer artifact org.apache.solr\:solr-solrj\:jar\:7.4.0 from/to alimaven (http\://maven.aliyun.com/nexus/content/repositories/central/)\: The operation was cancelled.
+@default-alimaven-http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1554903767964

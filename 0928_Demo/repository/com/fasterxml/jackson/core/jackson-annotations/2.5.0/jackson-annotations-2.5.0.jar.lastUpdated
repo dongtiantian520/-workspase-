@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Aug 31 08:29:41 CST 2019
+http\://repo.maven.apache.org/maven2/.lastUpdated=1567211381518
+@default-nexus-aliyun-https\://maven.aliyun.com/repository/public/.lastUpdated=1557477308793
+https\://maven.aliyun.com/repository/public/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-annotations\:jar\:2.5.0 from/to nexus-aliyun (https\://maven.aliyun.com/repository/public)\: The operation was cancelled.

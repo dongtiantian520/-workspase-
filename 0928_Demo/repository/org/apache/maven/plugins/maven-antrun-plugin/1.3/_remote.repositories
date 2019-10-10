@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Aug 30 19:44:39 CST 2019
+maven-antrun-plugin-1.3.pom>alimaven=
+maven-antrun-plugin-1.3.jar>central=
+maven-antrun-plugin-1.3.pom>central=
+maven-antrun-plugin-1.3.pom>nexus-aliyun=
+maven-antrun-plugin-1.3.jar>nexus-aliyun=
+maven-antrun-plugin-1.3.jar>alimaven=

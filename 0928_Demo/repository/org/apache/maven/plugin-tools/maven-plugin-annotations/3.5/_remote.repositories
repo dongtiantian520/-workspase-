@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jun 12 00:55:22 CST 2019
+maven-plugin-annotations-3.5.jar>alimaven=
+maven-plugin-annotations-3.5.pom>alimaven=
+maven-plugin-annotations-3.5.pom>nexus-aliyun=
+maven-plugin-annotations-3.5.jar>nexus-aliyun=

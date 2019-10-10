@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 09 11:06:19 CST 2019
+maven-parent-8.pom>nexus-aliyun=
+maven-parent-8.pom>alimaven=
+maven-parent-8.pom>central=

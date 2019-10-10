@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Aug 30 19:44:42 CST 2019
+maven-parent-27.pom>nexus-aliyun=
+maven-parent-27.pom>central=
+maven-parent-27.pom>alimaven=
